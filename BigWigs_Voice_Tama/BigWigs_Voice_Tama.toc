@@ -2,6 +2,6 @@
 ## Title: BigWigs |cffff7f3f+|r|cffffffffCountdown: Tama|r
 ## Dependencies: BigWigs
 ## Version: 0.0.1
-## Author: Amtoft
+## Author: tama
 
 Core.lua
